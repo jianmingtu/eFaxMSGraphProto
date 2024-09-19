@@ -20,7 +20,7 @@
 		<default-package>ca.bc.gov.ag.courts</default-package>
 		<openapi-generator-version>7.7.0</openapi-generator-version>
 		<swagger-core-version>2.2.21</swagger-core-version>
-		<org-json-version>20090211</org-json-version>
+		<org-json-version>20231013</org-json-version>
 	</properties>
 	
 	<dependencies>
